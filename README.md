@@ -18,7 +18,7 @@ A search engine that searches tweets related to **USA elections 2020** given a q
 
 * Requirements
   * You can try to execute it directly if you already have all Python modules used in practices installed.
-  * You can also connect to the **virtual enviroment**. **You can download the virtual enviroment from this** [link.](https://drive.google.com/file/d/198Qk3eSxJ2LyHh0sVaxUBFqFesWj0RrC/view?usp=sharing)
+  * You can also connect to the **virtual enviroment**. **You can download the virtual enviroment from this** [link.](https://drive.google.com/file/d/1Jh7-3yoDT7mhf0DxZEBlmpc2O8F76C_Z/view?usp=sharing)
   ```console
   foo@bar:~/SearchEngine$ . venv/bin/activate 
   ```
