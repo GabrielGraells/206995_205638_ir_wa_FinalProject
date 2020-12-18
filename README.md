@@ -18,7 +18,7 @@ A search engine that searches tweets related to **USA elections 2020** given a q
 
 * Requirements
   * You can try to execute it directly if you already have all Python modules used in practices installed.
-  * You can also connect to the **virtual enviroment**. **You can download the virtual enviroment from this** [link.](https://drive.google.com/file/d/1Jh7-3yoDT7mhf0DxZEBlmpc2O8F76C_Z/view?usp=sharing)
+  * You can also connect to the **virtual enviroment**. **You can download the virtual enviroment from this** [link.](https://drive.google.com/file/d/1N9O3ge-kEZIiJFWEbwq1yXZvDe2pj9OA/view?usp=sharing)
   ```console
   foo@bar:~/SearchEngine$ . venv/bin/activate 
   ```
@@ -30,7 +30,7 @@ This will initialize the program by constructing the index and the requirements 
 ````console
 foo@bar:~/SearchEngine$ twitterSE --method [method]
 ````
-* **--method**: Ranking method. Takes values tf-idf or word2vec. Default: tf-idf
+* **--method**: Ranking method. Takes values tf-idf, doc2vec and word2vec. Default: tf-idf
 
 #### Search a query
 Once the program has initialized you can run queries. The following will be displayed in command line.
